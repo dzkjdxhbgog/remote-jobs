@@ -2,7 +2,7 @@
 
 <a href="https://yuanchenggongzuo.net/?from=github"><img src="assets/banner.svg" alt="Remote Jobs 远程工作岗位" width="100%"></a>
 
-<a href="https://yuanchenggongzuo.net/?from=github"><img alt="在招 Open 1666" src="https://img.shields.io/badge/%E5%9C%A8%E6%8B%9B%20Open-1666-1f4e8c?style=for-the-badge"></a> <a href="#contents"><img alt="本周新增 New 163" src="https://img.shields.io/badge/%E6%9C%AC%E5%91%A8%E6%96%B0%E5%A2%9E%20New-163-ff7a59?style=for-the-badge"></a> <a href="#contents"><img alt="更新 Updated 2026-10-20" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%20Updated-2026--10--20-2ea44f?style=for-the-badge"></a>
+<a href="https://yuanchenggongzuo.net/?from=github"><img alt="在招 Open 1685" src="https://img.shields.io/badge/%E5%9C%A8%E6%8B%9B%20Open-1685-1f4e8c?style=for-the-badge"></a> <a href="#contents"><img alt="本周新增 New 169" src="https://img.shields.io/badge/%E6%9C%AC%E5%91%A8%E6%96%B0%E5%A2%9E%20New-169-ff7a59?style=for-the-badge"></a> <a href="#contents"><img alt="更新 Updated 2026-10-21" src="https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%20Updated-2026--10--21-2ea44f?style=for-the-badge"></a>
 
 **每天自动更新的远程 / 居家办公岗位合集**<br>
 Remote &amp; work-from-home jobs, collected and screened daily.
@@ -17,21 +17,26 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 
 <a id="contents"></a>
 
-## 🗂️ 本周岗位 · This week（163）
+## 🗂️ 本周岗位 · This week（169）
 
 <table>
-<tr><td width="33%"><a href="#cat-dev">💻 开发 Engineering <b>40</b></a></td><td width="33%"><a href="#cat-design">🎨 设计 Design <b>12</b></a></td><td width="33%"><a href="#cat-ops">📣 运营·新媒体 Marketing & Operations <b>19</b></a></td></tr>
-<tr><td width="33%"><a href="#cat-sales">🤝 销售·商务 Sales & BD <b>30</b></a></td><td width="33%"><a href="#cat-trade">🌏 跨境电商·外贸 E-commerce & Trade <b>3</b></a></td><td width="33%"><a href="#cat-writing">✍️ 文案·翻译 Writing & Translation <b>16</b></a></td></tr>
-<tr><td width="33%"><a href="#cat-edu">📚 教育·培训 Education <b>6</b></a></td><td width="33%"><a href="#cat-cs">🎧 客服 Customer Support <b>4</b></a></td><td width="33%"><a href="#cat-hr_admin">🗂️ 人事·行政 HR & Admin <b>11</b></a></td></tr>
-<tr><td width="33%"><a href="#cat-finance_legal">💰 财务·法务 Finance & Legal <b>5</b></a></td><td width="33%"><a href="#cat-tasks">🏷️ 数据标注·任务型 Data & Micro-tasks <b>6</b></a></td><td width="33%"><a href="#cat-other">📦 其他 Other <b>11</b></a></td></tr>
+<tr><td width="33%"><a href="#cat-dev">💻 开发 Engineering <b>39</b></a></td><td width="33%"><a href="#cat-design">🎨 设计 Design <b>13</b></a></td><td width="33%"><a href="#cat-ops">📣 运营·新媒体 Marketing & Operations <b>23</b></a></td></tr>
+<tr><td width="33%"><a href="#cat-sales">🤝 销售·商务 Sales & BD <b>33</b></a></td><td width="33%"><a href="#cat-trade">🌏 跨境电商·外贸 E-commerce & Trade <b>3</b></a></td><td width="33%"><a href="#cat-writing">✍️ 文案·翻译 Writing & Translation <b>15</b></a></td></tr>
+<tr><td width="33%"><a href="#cat-edu">📚 教育·培训 Education <b>4</b></a></td><td width="33%"><a href="#cat-cs">🎧 客服 Customer Support <b>4</b></a></td><td width="33%"><a href="#cat-hr_admin">🗂️ 人事·行政 HR & Admin <b>12</b></a></td></tr>
+<tr><td width="33%"><a href="#cat-finance_legal">💰 财务·法务 Finance & Legal <b>4</b></a></td><td width="33%"><a href="#cat-tasks">🏷️ 数据标注·任务型 Data & Micro-tasks <b>9</b></a></td><td width="33%"><a href="#cat-other">📦 其他 Other <b>10</b></a></td></tr>
 </table>
 
 <a id="cat-dev"></a>
 
-### 💻 开发 Engineering（40）
+### 💻 开发 Engineering（39）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [数通项目远程交付工程师](https://yuanchenggongzuo.net/job/2269?from=github) | 四川 | 10-21 |
+| [中高级网优工程师](https://yuanchenggongzuo.net/job/2268?from=github) | 陕西 | 10-21 |
+| [研发工程师｜R&D Engineer](https://yuanchenggongzuo.net/job/2256?from=github) | China | 10-21 |
+| [高级测试工程师](https://yuanchenggongzuo.net/job/2249?from=github) | Remote | 10-20 |
+| [后端工程师（偏全栈能力，远程兼职）](https://yuanchenggongzuo.net/job/2246?from=github) | 北京 | 10-20 |
 | [采购开发专员（远程）](https://yuanchenggongzuo.net/job/2242?from=github) | 深圳 | 10-20 |
 | [SAP Basis工程师｜SAP Basis](https://yuanchenggongzuo.net/job/2241?from=github) | 远程 | 10-20 |
 | [客户工程师｜Customer Engineer](https://yuanchenggongzuo.net/job/2229?from=github) | China | 10-20 |
@@ -66,21 +71,17 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [数字后端工程师(远程线上面试)](https://yuanchenggongzuo.net/job/2109?from=github) | 四川 | 10-14 |
 | [iOS开发工程师｜iOS Developer](https://yuanchenggongzuo.net/job/2103?from=github) | China | 10-14 |
 | [Execution Systems Dev](https://yuanchenggongzuo.net/job/2102?from=github) | Hong Kong / Remote | 10-14 |
-| [移动端开发工程师 - AI提效（远程）](https://yuanchenggongzuo.net/job/2100?from=github) | 北京 | 10-14 |
-| [.NET Developer（远程岗位）](https://yuanchenggongzuo.net/job/2090?from=github) | 陕西 | 10-13 |
-| [Remote Part-Time Full-Stack Engineer — AI Web Development](https://yuanchenggongzuo.net/job/2089?from=github) | Remote | 10-13 |
-| [无线后台远程交付工程师](https://yuanchenggongzuo.net/job/2087?from=github) | 陕西 | 10-13 |
-| [AI‑CAD自动化工程师](https://yuanchenggongzuo.net/job/2086?from=github) | Remote | 10-13 |
-| [wordpress搭建](https://yuanchenggongzuo.net/job/2083?from=github) | 杭州 | 10-13 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-design"></a>
 
-### 🎨 设计 Design（12）
+### 🎨 设计 Design（13）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [Amazon亚马逊美工设计师（童装品类）（居家远程办公）](https://yuanchenggongzuo.net/job/2270?from=github) | 远程 | 10-21 |
+| [项目经理 IV｜PROJECT MANAGER IV](https://yuanchenggongzuo.net/job/2262?from=github) | China | 10-21 |
 | [SAP项目经理 (EWM/WM+全英面试+远程办公）](https://yuanchenggongzuo.net/job/2234?from=github) | 上海 | 10-20 |
 | [AI图像设计师｜AI Image Designer](https://yuanchenggongzuo.net/job/2219?from=github) | China | 10-19 |
 | [Product Designer](https://yuanchenggongzuo.net/job/2209?from=github) | 海外 | 10-18 |
@@ -92,16 +93,20 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [兼职商品设计师（可远程）](https://yuanchenggongzuo.net/job/2125?from=github) | 重庆 | 10-15 |
 | [UI设计师（远程办公）](https://yuanchenggongzuo.net/job/2117?from=github) | 北京 | 10-15 |
 | [人才与组织建设（远程办公）](https://yuanchenggongzuo.net/job/2110?from=github) | 上海 | 10-15 |
-| [远程项目经理（Remote Project Manager）](https://yuanchenggongzuo.net/job/2098?from=github) | 上海 | 10-14 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-ops"></a>
 
-### 📣 运营·新媒体 Marketing & Operations（19）
+### 📣 运营·新媒体 Marketing & Operations（23）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [澳洲信贷产品经理（远程办公）](https://yuanchenggongzuo.net/job/2267?from=github) | 青岛 | 10-21 |
+| [SEO 内容运营专员(远程办公不限base地）](https://yuanchenggongzuo.net/job/2255?from=github) | 北京 | 10-21 |
+| [高级产品经理](https://yuanchenggongzuo.net/job/2254?from=github) | Remote | 10-21 |
+| [网红助理](https://yuanchenggongzuo.net/job/2251?from=github) | Remote | 10-20 |
+| [SEO 产品经理](https://yuanchenggongzuo.net/job/2245?from=github) | Remote | 10-20 |
 | [公众号运营（远程）](https://yuanchenggongzuo.net/job/2237?from=github) | 远程 | 10-20 |
 | [多平台内容发布专员](https://yuanchenggongzuo.net/job/2221?from=github) | 其他 | 10-20 |
 | [海外内容合作专员（远程办公不限base地）](https://yuanchenggongzuo.net/job/2218?from=github) | 北京 | 10-19 |
@@ -120,16 +125,21 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [多平台内容发布与互动运营专员](https://yuanchenggongzuo.net/job/2129?from=github) | 其他 | 10-15 |
 | [居家业务线上营销岗--重庆](https://yuanchenggongzuo.net/job/2113?from=github) | 重庆 | 10-15 |
 | [高级游戏主策](https://yuanchenggongzuo.net/job/2104?from=github) | 其他 | 10-14 |
-| [不露脸聊天主播，居家办公](https://yuanchenggongzuo.net/job/2094?from=github) | 重庆 | 10-14 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-sales"></a>
 
-### 🤝 销售·商务 Sales & BD（30）
+### 🤝 销售·商务 Sales & BD（33）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [大中华区商务负责人｜Commercial Head, Greater China](https://yuanchenggongzuo.net/job/2265?from=github) | China | 10-21 |
+| [Business Development Manager 业务拓展经理 （远程办公）](https://yuanchenggongzuo.net/job/2261?from=github) | 北京 | 10-21 |
+| [高级业务拓展经理｜Senior Business Development Manager](https://yuanchenggongzuo.net/job/2259?from=github) | China | 10-21 |
+| [本地招生顾问｜Local Admissions Counsellor, China](https://yuanchenggongzuo.net/job/2252?from=github) | China | 10-20 |
+| [外企直招SAP FICO/ VIM 顾问—Remote远程办公](https://yuanchenggongzuo.net/job/2248?from=github) | 远程 | 10-20 |
+| [业务拓展经理｜Business Development Manager](https://yuanchenggongzuo.net/job/2247?from=github) | China | 10-20 |
 | [销售经理｜Sales Manager](https://yuanchenggongzuo.net/job/2232?from=github) | China | 10-20 |
 | [广告客户执行](https://yuanchenggongzuo.net/job/2226?from=github) | 其他 | 10-20 |
 | [消防规范专家 工业消防顾问（可远程办公）](https://yuanchenggongzuo.net/job/2223?from=github) | 北京 | 10-20 |
@@ -157,9 +167,6 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [商务拓展（远程工作）](https://yuanchenggongzuo.net/job/2114?from=github) | 深圳 | 10-15 |
 | [客户顾问｜Client Advisor](https://yuanchenggongzuo.net/job/2111?from=github) | China | 10-15 |
 | [海外达人BD](https://yuanchenggongzuo.net/job/2108?from=github) | 其他 | 10-14 |
-| [大客户销售（远程岗位）](https://yuanchenggongzuo.net/job/2096?from=github) | 远程 | 10-14 |
-| [健康顾问（线上远程办公）](https://yuanchenggongzuo.net/job/2095?from=github) | 石家庄 | 10-14 |
-| [留学行业顾问（远程+双休）](https://yuanchenggongzuo.net/job/2093?from=github) | 杭州 | 10-14 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
@@ -177,10 +184,11 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 
 <a id="cat-writing"></a>
 
-### ✍️ 文案·翻译 Writing & Translation（16）
+### ✍️ 文案·翻译 Writing & Translation（15）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [日语/韩语游戏客服（远程办公）](https://yuanchenggongzuo.net/job/2253?from=github) | 远程 | 10-20 |
 | [专利翻译 （远程兼职-需：泰语-印尼语-巴葡语）](https://yuanchenggongzuo.net/job/2240?from=github) | 成都 | 10-20 |
 | [线上英语绘本讲师 （无需抢课）](https://yuanchenggongzuo.net/job/2230?from=github) | 江苏 | 10-20 |
 | [在家就能赚 1v1 陪读英语绘本](https://yuanchenggongzuo.net/job/2212?from=github) | 湖北 | 10-19 |
@@ -195,23 +203,19 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [兼职PM（居家远程办公）](https://yuanchenggongzuo.net/job/2124?from=github) | 远程 | 10-15 |
 | [线上1v1英语绘本陪读（居家兼职）](https://yuanchenggongzuo.net/job/2121?from=github) | 浙江 | 10-15 |
 | [兼职英语阅读老师（线上办公/时段任选）](https://yuanchenggongzuo.net/job/2116?from=github) | 远程 | 10-15 |
-| [【线上远程兼职】德语翻译（地点不限/居家办公）](https://yuanchenggongzuo.net/job/2099?from=github) | 北京 | 10-14 |
-| [兼职远程居家SOHO英语翻译笔译（年报ESG IPO改稿markup）](https://yuanchenggongzuo.net/job/2088?from=github) | 深圳 | 10-13 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-edu"></a>
 
-### 📚 教育·培训 Education（6）
+### 📚 教育·培训 Education（4）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [在线中英双语教师（可远程办公｜时间自由｜稳定生源）](https://yuanchenggongzuo.net/job/2250?from=github) | 武汉 | 10-20 |
 | [法语老师](https://yuanchenggongzuo.net/job/2239?from=github) | 江苏 | 10-20 |
 | [培训方案策划，管理咨询师（可远程在家办公）](https://yuanchenggongzuo.net/job/2156?from=github) | 远程 | 10-17 |
 | [培训方案策划师（可远程在家办公）](https://yuanchenggongzuo.net/job/2140?from=github) | 广东 | 10-16 |
-| [出海行业面试辅导老师（远程兼职）](https://yuanchenggongzuo.net/job/2097?from=github) | 深圳 | 10-14 |
-| [在线中英双语教师（可远程办公｜时间自由｜稳定生源）](https://yuanchenggongzuo.net/job/2085?from=github) | 上海 | 10-13 |
-| [远程教学法语老师 （线上办公）](https://yuanchenggongzuo.net/job/2084?from=github) | 湖北 | 10-13 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
@@ -221,19 +225,20 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [支付宝—线上兼职客服](https://yuanchenggongzuo.net/job/2266?from=github) | 江苏 | 10-21 |
 | [高级私人管家 远程办公 Personal assistant manager](https://yuanchenggongzuo.net/job/2244?from=github) | 上海 | 10-20 |
 | [线上语音客服（远程办公）](https://yuanchenggongzuo.net/job/2190?from=github) | 邯郸 | 10-18 |
 | [线上咨询客服](https://yuanchenggongzuo.net/job/2145?from=github) | 远程 | 10-16 |
-| [客服专员（粤语）｜Customer Service (Cantonese Speaking)](https://yuanchenggongzuo.net/job/2082?from=github) | China | 10-13 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-hr_admin"></a>
 
-### 🗂️ 人事·行政 HR & Admin（11）
+### 🗂️ 人事·行政 HR & Admin（12）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [项目助理 - 上海（远程）](https://yuanchenggongzuo.net/job/2258?from=github) | 上海 | 10-21 |
 | [招聘经理（远程）](https://yuanchenggongzuo.net/job/2243?from=github) | 远程 | 10-20 |
 | [集团行政专员（Remote/远程办公）](https://yuanchenggongzuo.net/job/2236?from=github) | 成都 | 10-20 |
 | [招聘远程居家办公实验生物医学科研生物医学硕士博士](https://yuanchenggongzuo.net/job/2233?from=github) | 远程 | 10-20 |
@@ -250,7 +255,7 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 
 <a id="cat-finance_legal"></a>
 
-### 💰 财务·法务 Finance & Legal（5）
+### 💰 财务·法务 Finance & Legal（4）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
@@ -258,28 +263,30 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [涉外专利代理人 可远程办公](https://yuanchenggongzuo.net/job/2163?from=github) | 北京 | 10-17 |
 | [金融/法律/风控 AI训练专家（远程线上）](https://yuanchenggongzuo.net/job/2157?from=github) | 上海 | 10-17 |
 | [酒店财务经理（远程）](https://yuanchenggongzuo.net/job/2106?from=github) | 上海 | 10-14 |
-| [AI训练数据 - 研发工作流专家/远程项目制](https://yuanchenggongzuo.net/job/2101?from=github) | 北京 | 10-14 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-tasks"></a>
 
-### 🏷️ 数据标注·任务型 Data & Micro-tasks（6）
+### 🏷️ 数据标注·任务型 Data & Micro-tasks（9）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
+| [舆情分析师（可远程，城市不限）](https://yuanchenggongzuo.net/job/2264?from=github) | 西安 | 10-21 |
+| [医疗器械质量体系审核员-CCAA证书必须 可远程办公](https://yuanchenggongzuo.net/job/2263?from=github) | 广东 | 10-21 |
+| [留学文书兼职(远程办公)](https://yuanchenggongzuo.net/job/2260?from=github) | 远程 | 10-21 |
+| [社会责任审核员 / 江浙 居家办公](https://yuanchenggongzuo.net/job/2257?from=github) | 浙江 | 10-21 |
 | [认证审核员](https://yuanchenggongzuo.net/job/2182?from=github) | 昆明 | 10-17 |
 | [信息检索录入员/日常实习岗位/可远程](https://yuanchenggongzuo.net/job/2175?from=github) | 南京 | 10-17 |
 | [【远程】福州话方言标注](https://yuanchenggongzuo.net/job/2147?from=github) | 福州 | 10-16 |
 | [短视频剪辑](https://yuanchenggongzuo.net/job/2132?from=github) | 其他 | 10-15 |
 | [支付宝--居家打字兼职](https://yuanchenggongzuo.net/job/2119?from=github) | 湖北 | 10-15 |
-| [AI出海营销评测专员（远程兼职）](https://yuanchenggongzuo.net/job/2091?from=github) | 成都 | 10-14 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
 <a id="cat-other"></a>
 
-### 📦 其他 Other（11）
+### 📦 其他 Other（10）
 
 | 岗位 Job | 城市 Location | 日期 Date |
 | :-- | :-- | :-: |
@@ -293,7 +300,6 @@ Remote &amp; work-from-home jobs, collected and screened daily.
 | [项目专员Program Associate （远程办公）](https://yuanchenggongzuo.net/job/2171?from=github) | 上海 | 10-17 |
 | [兼职手绘装饰画师（远程）](https://yuanchenggongzuo.net/job/2168?from=github) | 西安 | 10-17 |
 | [MEP 机电 CAD 绘图员（远程全职）](https://yuanchenggongzuo.net/job/2123?from=github) | 远程 | 10-15 |
-| [农药国内业务支持（可远程）](https://yuanchenggongzuo.net/job/2092?from=github) | 江苏 | 10-14 |
 
 <p align="right"><a href="#contents">↑ 回到目录 Back to top</a></p>
 
